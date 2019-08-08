@@ -1,0 +1,11 @@
+C:\Users\AeroDcool\source\repos\TobisWorldMG\TobisWorldMG\bin\Debug\netcoreapp2.1\TobisWorldMG.deps.json
+C:\Users\AeroDcool\source\repos\TobisWorldMG\TobisWorldMG\bin\Debug\netcoreapp2.1\TobisWorldMG.runtimeconfig.json
+C:\Users\AeroDcool\source\repos\TobisWorldMG\TobisWorldMG\bin\Debug\netcoreapp2.1\TobisWorldMG.runtimeconfig.dev.json
+C:\Users\AeroDcool\source\repos\TobisWorldMG\TobisWorldMG\bin\Debug\netcoreapp2.1\TobisWorldMG.dll
+C:\Users\AeroDcool\source\repos\TobisWorldMG\TobisWorldMG\bin\Debug\netcoreapp2.1\TobisWorldMG.pdb
+C:\Users\AeroDcool\source\repos\TobisWorldMG\TobisWorldMG\obj\Debug\netcoreapp2.1\TobisWorldMG.csprojAssemblyReference.cache
+C:\Users\AeroDcool\source\repos\TobisWorldMG\TobisWorldMG\obj\Debug\netcoreapp2.1\TobisWorldMG.csproj.CoreCompileInputs.cache
+C:\Users\AeroDcool\source\repos\TobisWorldMG\TobisWorldMG\obj\Debug\netcoreapp2.1\TobisWorldMG.AssemblyInfoInputs.cache
+C:\Users\AeroDcool\source\repos\TobisWorldMG\TobisWorldMG\obj\Debug\netcoreapp2.1\TobisWorldMG.AssemblyInfo.cs
+C:\Users\AeroDcool\source\repos\TobisWorldMG\TobisWorldMG\obj\Debug\netcoreapp2.1\TobisWorldMG.dll
+C:\Users\AeroDcool\source\repos\TobisWorldMG\TobisWorldMG\obj\Debug\netcoreapp2.1\TobisWorldMG.pdb
